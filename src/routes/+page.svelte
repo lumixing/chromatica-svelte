@@ -41,7 +41,7 @@
     </div>
     <div class="bottom">
         <span>sort your playlist into colors</span>
-        <button>authenticate with spotify</button>
+        <button on:click={auth}>authenticate with spotify</button>
     </div>
 </main>
 

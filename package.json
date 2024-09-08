@@ -26,6 +26,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"lodash": "^4.17.21",
 		"node-vibrant": "^3.1.6"
 	}
 }

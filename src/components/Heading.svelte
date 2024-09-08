@@ -51,11 +51,11 @@
     @media only screen and (max-width: 700px) {
         h1 {
             text-align: center;
-            font-size: 72px;
+            font-size: 56px;
         }
 
         .color {
-            height: 87px;
+            height: 68px;
             text-align: left;
         }
     }
