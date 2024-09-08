@@ -8,5 +8,8 @@ export async function GET({ request }) {
         },
     });
 
-    return json(await fres.json());
+    const data = await fres.json();
+    console.log(data)
+
+    return json(data);
 }
